@@ -8,7 +8,7 @@ If the repository does not contain a data folder, [download] a zipped data file 
 
 ## Collaborators
 
-- Martina Calovi
+- Martina Calovi 
 
 
 [download]: https://files.sesync.org/pydio/public/09bb83
